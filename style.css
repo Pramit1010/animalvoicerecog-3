@@ -1,0 +1,40 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: rgb(171, 192, 146);
+
+}
+.header_div{
+    background: rgb(94, 121, 77);
+    color: rgb(238, 238, 238);
+    font-weight: bolder;
+    letter-spacing: 2px;
+    
+}
+
+.header_div p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(252, 252, 252);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Beau Rivage', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(0, 0, 0);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(245, 245, 245);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(77, 76, 76);
+}
